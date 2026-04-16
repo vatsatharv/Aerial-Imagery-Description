@@ -1,4 +1,4 @@
-# Accessible-Aerial-Imagery-Description-and-Analysis-System
+# Aerial-Imagery-System
 FastAPI backend for aerial image analysis using ML-based captioning and TTS, with async processing and modular API design.
 
 # 🌍 Accessible Aerial Imagery Description and Analysis System
